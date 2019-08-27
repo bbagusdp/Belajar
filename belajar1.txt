@@ -1,3 +1,4 @@
 Belajar1
--Konsisten untuk belajar Programming
--Mempelajari Database
+- Konsisten untuk belajar Programming
+- Mempelajari Database
+- Menciptakan solusi
