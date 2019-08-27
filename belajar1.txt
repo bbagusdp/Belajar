@@ -2,3 +2,4 @@ Belajar1
 - Konsisten untuk belajar Programming
 - Mempelajari Database
 - Menciptakan solusi
+- Memberikan manfaat bagi orang banyak
